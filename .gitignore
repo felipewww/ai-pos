@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+datasets
+.env
+my-venv/
+posenv2/
+.ipynb_checkpoints/
+.idea

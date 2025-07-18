@@ -1,0 +1,12 @@
+scikit-learn
+tensorflow
+notebook
+kagglehub
+dotenv
+pandas
+numpy
+matplotlib
+jupyter
+
+# necessário para o pandas
+openpyxl
