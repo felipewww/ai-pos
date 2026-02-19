@@ -110,6 +110,12 @@ E avaliar:
 * **Varia de 0 a 1** (ou 0% a 100%)
 * **R² = 0,80 (ou 80%)** → quer dizer que 80% da variação em `vendas`, por exemplo, pode ser explicada pelo modelo (como `investimento em anúncios`).
 
+## Interpretação:
+
+* `R² = 1`: predição perfeita.
+* `R² = 0`: o modelo não explica nada além da média.
+* `R² < 0`: o modelo é pior que simplesmente prever a média.
+
 ### ✅ Bom para:
 
 * Saber **se o modelo está explicando bem os dados**

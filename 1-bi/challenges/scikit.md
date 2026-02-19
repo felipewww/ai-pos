@@ -196,4 +196,3 @@ Esse projeto seria 100% real, de produção e confiável. Só sairia do scikit-l
 
 ---
 
-Se quiser, posso te mostrar um exemplo de **pipeline real** usado em produção com scikit-learn. Quer ver?
